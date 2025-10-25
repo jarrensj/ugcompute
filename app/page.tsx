@@ -8,7 +8,7 @@ export default function Home() {
         <TaskCard 
           title="omaka$e hat"
           description="Make content with the omaka$e hat"
-          assetsUrl=""
+          slug="omakase-hat"
         />
       </div>
     </div>
